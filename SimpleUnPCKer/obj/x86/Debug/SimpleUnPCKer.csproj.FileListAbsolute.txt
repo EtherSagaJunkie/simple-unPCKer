@@ -1,0 +1,10 @@
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\bin\x86\Debug\SimpleUnPCKer.exe.config
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\bin\x86\Debug\SimpleUnPCKer.exe
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\bin\x86\Debug\SimpleUnPCKer.pdb
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\obj\x86\Debug\SimpleUnPCKer.csprojAssemblyReference.cache
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\obj\x86\Debug\BeySoft.MainForm.resources
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\obj\x86\Debug\BeySoft.Properties.Resources.resources
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\obj\x86\Debug\SimpleUnPCKer.csproj.GenerateResource.cache
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\obj\x86\Debug\SimpleUnPCKer.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\obj\x86\Debug\SimpleUnPCKer.exe
+C:\Users\Michael\Source\Repos\Simple-UnPCKer\SimpleUnPCKer\obj\x86\Debug\SimpleUnPCKer.pdb
